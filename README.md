@@ -1,2 +1,2 @@
 # CalculatorApp
-A small python program that creates a calculator app
+A python program that creates a calculator app
